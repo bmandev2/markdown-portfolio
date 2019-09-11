@@ -1,4 +1,4 @@
-* Eric
-* Patti
+* **Eric**
+* _Patti_
 * Jim
 * Ben
